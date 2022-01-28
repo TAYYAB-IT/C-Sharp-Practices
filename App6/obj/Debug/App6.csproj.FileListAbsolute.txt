@@ -1,0 +1,12 @@
+E:\5th\C#\App6\bin\Debug\App6.exe.config
+E:\5th\C#\App6\bin\Debug\App6.exe
+E:\5th\C#\App6\bin\Debug\App6.pdb
+E:\5th\C#\App6\obj\Debug\App6.csproj.AssemblyReference.cache
+E:\5th\C#\App6\obj\Debug\App6.csproj.SuggestedBindingRedirects.cache
+E:\5th\C#\App6\obj\Debug\App6.Input_window.resources
+E:\5th\C#\App6\obj\Debug\App6.Show_window.resources
+E:\5th\C#\App6\obj\Debug\App6.Properties.Resources.resources
+E:\5th\C#\App6\obj\Debug\App6.csproj.GenerateResource.cache
+E:\5th\C#\App6\obj\Debug\App6.csproj.CoreCompileInputs.cache
+E:\5th\C#\App6\obj\Debug\App6.exe
+E:\5th\C#\App6\obj\Debug\App6.pdb

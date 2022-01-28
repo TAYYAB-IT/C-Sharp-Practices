@@ -1,0 +1,11 @@
+E:\5th\C#\App1\bin\Debug\App1.exe.config
+E:\5th\C#\App1\bin\Debug\App1.exe
+E:\5th\C#\App1\bin\Debug\App1.pdb
+E:\5th\C#\App1\obj\Debug\App1.csproj.AssemblyReference.cache
+E:\5th\C#\App1\obj\Debug\App1.csproj.SuggestedBindingRedirects.cache
+E:\5th\C#\App1\obj\Debug\App1.Student.resources
+E:\5th\C#\App1\obj\Debug\App1.Properties.Resources.resources
+E:\5th\C#\App1\obj\Debug\App1.csproj.GenerateResource.cache
+E:\5th\C#\App1\obj\Debug\App1.csproj.CoreCompileInputs.cache
+E:\5th\C#\App1\obj\Debug\App1.exe
+E:\5th\C#\App1\obj\Debug\App1.pdb

@@ -1,0 +1,15 @@
+E:\5th\C#\App7\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+E:\5th\C#\App7\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+E:\5th\C#\App7\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+E:\5th\C#\App7\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+E:\5th\C#\App7\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.SuggestedBindingRedirects.cache
+E:\5th\C#\App7\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+E:\5th\C#\App7\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form2.resources
+E:\5th\C#\App7\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form3.resources
+E:\5th\C#\App7\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form4.resources
+E:\5th\C#\App7\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form5.resources
+E:\5th\C#\App7\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+E:\5th\C#\App7\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+E:\5th\C#\App7\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+E:\5th\C#\App7\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+E:\5th\C#\App7\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb

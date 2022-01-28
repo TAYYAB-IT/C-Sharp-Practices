@@ -1,0 +1,11 @@
+E:\5th\C#\App2\bin\Debug\App2.exe.config
+E:\5th\C#\App2\bin\Debug\App2.exe
+E:\5th\C#\App2\bin\Debug\App2.pdb
+E:\5th\C#\App2\obj\Debug\App2.csproj.AssemblyReference.cache
+E:\5th\C#\App2\obj\Debug\App2.csproj.SuggestedBindingRedirects.cache
+E:\5th\C#\App2\obj\Debug\App2.Calculator.resources
+E:\5th\C#\App2\obj\Debug\App2.Properties.Resources.resources
+E:\5th\C#\App2\obj\Debug\App2.csproj.GenerateResource.cache
+E:\5th\C#\App2\obj\Debug\App2.csproj.CoreCompileInputs.cache
+E:\5th\C#\App2\obj\Debug\App2.exe
+E:\5th\C#\App2\obj\Debug\App2.pdb

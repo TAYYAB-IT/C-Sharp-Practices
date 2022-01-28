@@ -1,0 +1,11 @@
+E:\5th\C#\App8\bin\Debug\App8.exe.config
+E:\5th\C#\App8\bin\Debug\App8.exe
+E:\5th\C#\App8\bin\Debug\App8.pdb
+E:\5th\C#\App8\obj\Debug\App8.csproj.AssemblyReference.cache
+E:\5th\C#\App8\obj\Debug\App8.csproj.SuggestedBindingRedirects.cache
+E:\5th\C#\App8\obj\Debug\App8.Form1.resources
+E:\5th\C#\App8\obj\Debug\App8.Properties.Resources.resources
+E:\5th\C#\App8\obj\Debug\App8.csproj.GenerateResource.cache
+E:\5th\C#\App8\obj\Debug\App8.csproj.CoreCompileInputs.cache
+E:\5th\C#\App8\obj\Debug\App8.exe
+E:\5th\C#\App8\obj\Debug\App8.pdb

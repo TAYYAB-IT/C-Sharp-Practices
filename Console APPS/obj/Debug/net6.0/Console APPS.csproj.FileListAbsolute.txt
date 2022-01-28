@@ -1,0 +1,15 @@
+E:\5th\C#\Console APPS\bin\Debug\net6.0\Console APPS.exe
+E:\5th\C#\Console APPS\bin\Debug\net6.0\Console APPS.deps.json
+E:\5th\C#\Console APPS\bin\Debug\net6.0\Console APPS.runtimeconfig.json
+E:\5th\C#\Console APPS\bin\Debug\net6.0\Console APPS.dll
+E:\5th\C#\Console APPS\bin\Debug\net6.0\ref\Console APPS.dll
+E:\5th\C#\Console APPS\bin\Debug\net6.0\Console APPS.pdb
+E:\5th\C#\Console APPS\obj\Debug\net6.0\Console APPS.csproj.AssemblyReference.cache
+E:\5th\C#\Console APPS\obj\Debug\net6.0\Console APPS.GeneratedMSBuildEditorConfig.editorconfig
+E:\5th\C#\Console APPS\obj\Debug\net6.0\Console APPS.AssemblyInfoInputs.cache
+E:\5th\C#\Console APPS\obj\Debug\net6.0\Console APPS.AssemblyInfo.cs
+E:\5th\C#\Console APPS\obj\Debug\net6.0\Console APPS.csproj.CoreCompileInputs.cache
+E:\5th\C#\Console APPS\obj\Debug\net6.0\Console APPS.dll
+E:\5th\C#\Console APPS\obj\Debug\net6.0\ref\Console APPS.dll
+E:\5th\C#\Console APPS\obj\Debug\net6.0\Console APPS.pdb
+E:\5th\C#\Console APPS\obj\Debug\net6.0\Console APPS.genruntimeconfig.cache

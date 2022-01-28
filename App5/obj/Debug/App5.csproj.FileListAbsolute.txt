@@ -1,0 +1,11 @@
+E:\5th\C#\App5\bin\Debug\App5.exe.config
+E:\5th\C#\App5\bin\Debug\App5.exe
+E:\5th\C#\App5\bin\Debug\App5.pdb
+E:\5th\C#\App5\obj\Debug\App5.csproj.AssemblyReference.cache
+E:\5th\C#\App5\obj\Debug\App5.csproj.SuggestedBindingRedirects.cache
+E:\5th\C#\App5\obj\Debug\App5.Form1.resources
+E:\5th\C#\App5\obj\Debug\App5.Properties.Resources.resources
+E:\5th\C#\App5\obj\Debug\App5.csproj.GenerateResource.cache
+E:\5th\C#\App5\obj\Debug\App5.csproj.CoreCompileInputs.cache
+E:\5th\C#\App5\obj\Debug\App5.exe
+E:\5th\C#\App5\obj\Debug\App5.pdb
